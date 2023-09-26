@@ -1,0 +1,57 @@
+body {
+    background:linear-gradient(rgb(208, 129, 208),white,rgb(158, 72, 158));
+    height: 800px;
+    width: 1500px;
+}
+.container{
+    border: 2px solid red;
+    border-radius: 7px;
+    text-align: center;
+    width: 470px;
+    font-family:monospace;
+    margin-left: 500px;
+}
+.mits-logo {
+    text-align: center;
+    background-color:white;
+    height: 330px;  
+}.login{
+    background-color:rgb(208, 199, 199);
+    height: 200px;
+    padding-top:10px;
+}
+.click button{
+    justify-items:end;
+}
+.login input{
+    width:200px;
+}
+#a{
+    padding-left: 630px;
+
+}
+#b{
+    margin-left: 400px;
+}
+#c{
+    margin-left: 90px;
+}
+#d{
+    margin-left: 60px;
+}
+#e{
+    margin-left: 530px;
+}
+#f{
+    margin-left: 100px;
+}
+#g{
+    margin-left: 630px; 
+}
+a{
+    color: darkblue;
+}
+#vi{
+    padding-left: 10px;
+    margin-left: 295px;
+}
